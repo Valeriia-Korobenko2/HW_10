@@ -1,0 +1,109 @@
+    1  man ls
+    2  man ls 
+    3  help ls
+    4  help help ls
+    5  help [ls]
+    6  clear
+    7  help ls
+    8  help info 
+    9  help info ls
+   10  help help ls
+   11  clear
+   12  ls
+   13  cd Desktop
+   14  ls
+   15  cd ..
+   16  ls
+   17  clear
+   18  mkdir Lesson
+   19  ls
+   20  cd Desktop
+   21  mkdir Lesson
+   22  system_profiler
+   23  clear
+   24  system_profiler
+   25  df- h
+   26  clear
+   27  df -h
+   28  clear
+   29  ifconfig
+   30  clear
+   31  help ifconfig
+   32  help help ifconfig
+   33  clear
+   34  ifconfig
+   35  ipconfog
+   36  ipconfig
+   37  ipconfig/all
+   38  ipconfig /all
+   39  clear
+   40  whoami
+   41  cd GIT_HW10
+   42  cd GIT_HW10
+   43  clear
+   44  ls
+   45  cd GIT_HM10
+   46  git config --global user.name "Valeriia Korobenko"
+   47  
+   48  git config --global user.email valeryalerka12345@gmail.com
+   49  git clone 
+   50  git clone https://github.com/Valeriia-Korobenko2/HW_10.git
+   51  cd HM_10
+   52  cd HM10
+   53  git status
+   54  cd HM_10.git
+   55  cd_HM10
+   56  cd HM10
+   57  ls
+   58  cd HW10/
+   59  ls
+   60  cd HW10
+   61  cd C:\Users\Valeriia\Desktop\GIT_HM10
+   62  HW10.git
+   63  HW10 .git
+   64  git satus HW10
+   65  status HW10
+   66  git status HW_10.git
+   67  git status
+   68  HW10 git status
+   69  git brunch
+   70  git branch
+   71  git init
+   72  git status
+   73  git add NEW.txt
+   74  add HW_10
+   75  git status
+   76  touch text_ignore.txt
+   77  nano .gitgnore text.ignore.txt
+   78  git add .gitgnore
+   79  git commit
+   80  git commit -m "changes are made"
+   81  touch main_test.txt
+   82  git add .main_test.txt
+   83  git add.main_test.txt
+   84  git add .main_test.txt
+   85  git commit -m "changes are made again"
+   86  git add main_test.txt
+   87  git commit -m "changes are made again"
+   88  git checkout -b developer
+   89  touch develop_test.txt
+   90  git add develop_test.txt
+   91  git commit -m "chamges are made"
+   92  git add develop_test.txt
+   93  git status
+   94  git add develop_test.txt
+   95  git commit -m "changes are fixed"
+   96  git checkout main
+   97  gir merge develop
+   98  git merge developer
+   99  git log
+  100  git push
+  101  git remote add origin https://github.com/Valeriia-Korobenko2/HW_10.git
+  102  git checkout -b developer
+  103  cd developer
+  104  git checkout developer
+  105  git add develop_test. txt
+  106  git add develop_test.txt
+  107  git commit -m "just a small change"
+  108  git checkout main
+  109  history > command_list.csv
